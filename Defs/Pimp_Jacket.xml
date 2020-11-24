@@ -13,9 +13,6 @@
 		<tradeability>Sellable</tradeability>
         <generateCommonality>0.1</generateCommonality>
 		<costStuffCount>80</costStuffCount>
-		<costList>
-			<Gold>5</Gold>
-		</costList>
 		<stuffCategories>
 			<li>Fabric</li>
 			<li>Leathery</li>
@@ -49,14 +46,10 @@
 			</layers>
 			<tags>
 				<li>IndustrialBasic</li>
-				<li>IndustrialMilitary</li>
+
 			</tags>
-			<defaultOutfitTags>
-				<li>Soldier</li>
-            </defaultOutfitTags>
 		</apparel>
 		<recipeMaker>
-			<!--<researchPrerequisite>VAE_MilitaryClothing</researchPrerequisite>-->
 			<skillRequirements>
 				<Crafting>5</Crafting>
 			</skillRequirements>
