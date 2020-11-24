@@ -32,10 +32,11 @@
 		</thingCategories>
 		<apparel>
 			<bodyPartGroups>
-				<li>Neck</li>
+               			<li>Neck</li>
 				<li>Torso</li>
 				<li>Shoulders</li>
 				<li>Arms</li>
+				<li>Legs</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Things/Apparel/GimpSuit/gimpsuit</wornGraphicPath>
 			<layers>
