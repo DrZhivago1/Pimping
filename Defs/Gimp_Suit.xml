@@ -47,7 +47,6 @@
 			</tags>
 		</apparel>
 		<recipeMaker>
-			<!--<researchPrerequisite>VAE_MilitaryClothing</researchPrerequisite>-->
 			<skillRequirements>
 				<Crafting>5</Crafting>
 			</skillRequirements>
@@ -102,7 +101,6 @@
 			</tags>
 		</apparel>
 		<recipeMaker>
-			<!--<researchPrerequisite>VAE_MilitaryClothing</researchPrerequisite>-->
 			<recipeUsers Inherit="False">
 				<li>ElectricTailoringBench</li>
 				<li>HandTailoringBench</li>
