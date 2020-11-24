@@ -12,9 +12,6 @@
 		<tradeability>Sellable</tradeability>
         <generateCommonality>0.1</generateCommonality>
 		<costStuffCount>80</costStuffCount>
-		<costList>
-			<Gold>5</Gold>
-		</costList>
 		<stuffCategories>
 			<li>Leathery</li>
 		</stuffCategories>
